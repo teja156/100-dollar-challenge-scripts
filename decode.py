@@ -1,6 +1,9 @@
 # This script is used to decode and decrypt the message from the encoded video
 
 '''
+Install dependencies:
+pip install -r requirements.txt
+
 Usage: 
 python decode.py <path_to_encoded_video>
 
