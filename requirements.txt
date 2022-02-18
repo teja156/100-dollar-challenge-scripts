@@ -1,0 +1,4 @@
+pycryptodome==3.14.1
+opencv-python==4.5.5.62
+numpy==1.22.2
+stegano==0.10.2
